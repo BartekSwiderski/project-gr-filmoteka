@@ -1,5 +1,5 @@
 {
-  "name": "projekt_js-filmoteka",
+  "name": "project-gr-filmoteka",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karolinascieszko/projekt_JS-Filmoteka.git"
+    "url": "git+https://github.com/BartekSwiderski/project-gr-filmoteka.git"
   },
   "keywords": [],
   "author": "Karolina S <karolina@google.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/karolinascieszko/projekt_JS-Filmoteka/issues"
+    "url": "https://github.com/BartekSwiderski/project-gr-filmoteka/issues"
   },
-  "homepage": "https://karolinascieszko.github.io/projekt_JS-Filmoteka/",
+  "homepage": "https://github.com/BartekSwiderski/project-gr-filmoteka/",
   "devDependencies": {
     "snowpack": "^3.8.8"
   },
